@@ -1,0 +1,23 @@
+.row-wrapper{
+    display: flex;
+    justify-content: center;
+    background-color: #bfbfbf;
+}
+.column-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+}
+.box{
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border: 10px;
+    background-color: #007acc;  
+}

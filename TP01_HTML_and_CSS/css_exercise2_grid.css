@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+    background-color: #bfbfbf;
+}
+.box{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    background-color:  #009999;
+    border: 1px solid #bfbfbf;
+}
