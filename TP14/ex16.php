@@ -5,11 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>index</title>
+    <title>ex16</title>
 </head>
 
 <body>
-    <?php echo "Hello world, I am a PHP script!" ?>
+    <form action="registration1.php" method="post">
+        Name: <input type="text" name="name">
+        Email: <input type="text" name="email">
+        <input type="submit">
+    </form>
 </body>
 
 </html>
